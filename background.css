@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  color: white;
+  background: url(images/DNA-Hero.png) no-repeat center center fixed;
+  background-size: cover;
+}
